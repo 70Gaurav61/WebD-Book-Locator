@@ -1,0 +1,42 @@
+.background{
+          
+    background-image: url('li2.jpeg');
+    background-size: cover;
+    height: 550px;
+    background-position: top;
+}   
+.box1{
+    position: fixed;
+    top: 40%;
+    left: 25%;
+    
+    background-position: center;
+    width: 50%;
+}
+input{
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    width: 80%;
+    color: aliceblue;
+}
+
+h3{
+    text-align: center;
+}
+button{
+    padding: 8px;
+    margin: 20px;
+    border-right: none;
+    border-bottom: none;
+    color: aliceblue;
+    background-color: rgb(93, 48, 205);
+    
+}
+.box{
+    display: flex;
+    justify-content:center;
+}
+
